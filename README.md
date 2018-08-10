@@ -2,7 +2,7 @@
 
 ## Description
 
-Each user is an artist that wants to sign a contract with another songwriter. Here we solve this problem using PHP.
+Each user is an artist that wants to sign a contract with another songwriter. Here we solve this problem using PHP from a REST API standpoint.
 
 ## Disclaimer
 
